@@ -1,0 +1,31 @@
+.row {
+    height: 12%;
+    padding-bottom: 1vh;
+}
+
+.merge_item {
+    display: inline-block;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 0 10% 0 10%;
+    height: 75vh;
+    margin-bottom: -10%;
+}
+
+#merge_header {
+    text-align: center;
+    font-size: 10vh;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+    text-transform: lowercase;
+    font-weight: 800;
+    letter-spacing: -0.05em;
+    color: hsl(300, 90%, 30%);
+}
+
+body {
+    background-color: rgb(245,240,230);    
+}
